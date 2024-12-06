@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<evenWeek>false</evenWeek>
+	<lecturerID>125598</lecturerID>
+	<day>Saturday</day>
+	<title>Расписание занятий (Балакшин Павел Валерьевич)</title>
+	<schedule>
+		<firstLesson>
+			<time>
+				<timeStart>13:30</timeStart>
+				<timeEnd>15:00</timeEnd>
+			</time>
+			<group>Р3117</group>
+			<location>
+				<idRoom>1415</idRoom>
+				<room>1415 ауд.</room>
+				<idAddress>0</idAddress>
+				<address>Кронверкский пр., д.49, лит.А</address>
+			</location>
+			<subject>Информатика</subject>
+			<type>Лаб</type>
+			<subjectFormat>Очно - дистанционный</subjectFormat>
+		</firstLesson>
+		<secondLesson>
+			<time>
+				<timeStart>15:20</timeStart>
+				<timeEnd>16:50</timeEnd>
+			</time>
+			<group>Р3117</group>
+			<location>
+				<idRoom>1415</idRoom>
+				<room>1415 ауд.</room>
+				<idAddress>0</idAddress>
+				<address>Кронверкский пр., д.49, лит.А</address>
+			</location>
+			<subject>Информатика</subject>
+			<type>Лаб</type>
+			<subjectFormat>Очно - дистанционный</subjectFormat>
+		</secondLesson>
+	</schedule>
+</data>

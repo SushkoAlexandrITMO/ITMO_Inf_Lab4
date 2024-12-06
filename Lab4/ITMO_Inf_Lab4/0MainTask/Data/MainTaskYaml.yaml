@@ -1,0 +1,32 @@
+data:
+  evenWeek: false
+  lecturerID: 125598
+  day: "Saturday"
+  title: "Расписание занятий (Балакшин Павел Валерьевич)"
+  schedule:
+    firstLesson:
+      time:
+        timeStart: '13:30'
+        timeEnd: '15:00'
+      group: "Р3117"
+      location:
+        idRoom: 1415
+        room: "1415 ауд."
+        idAddress: 0
+        address: "Кронверкский пр., д.49, лит.А"
+      subject: "Информатика"
+      type: "Лаб"
+      subjectFormat: "Очно - дистанционный"
+    secondLesson:
+      time:
+        timeStart: '15:20'
+        timeEnd: '16:50'
+      group: "Р3117"
+      location:
+        idRoom: 1415
+        room: "1415 ауд."
+        idAddress: 0
+        address: "Кронверкский пр., д.49, лит.А"
+      subject: "Информатика"
+      type: "Лаб"
+      subjectFormat: "Очно - дистанционный"
